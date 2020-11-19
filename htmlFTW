@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Best CV yes</title>
+        <link rel = "stylesheet" href = "cssFTW.css">
+	<script></script>
+        
+    </head>
+        
+        <body>
+
+
+            <div class="sidebar">
+                <h3>Extra</h3>
+                <ul>
+                    <li> <a href="https://youtu.be/3MH54ewvcWo?t=4">Contact</a> </li>
+                    <li><a href="https://youtu.be/PfYnvDL0Qcw?t=27">Projects</a></li>
+                    <li><a href="https://youtu.be/mghhLqu31cQ">Moktok Stuff I did not steal I swear</a></li>
+                </ul>
+            </div>
+
+            <div class="main">
+
+            <header>
+                <div class="jeff" id="jeff" >
+                    <img src="images/Jeff.PNG">
+                    </div>
+                <h1>Pearl De Smet</h1>
+        <h2>Java developer</h2>
+        
+    </header>
+
+
+    <pre id="quote">"My name is Jeff."</pre>
+
+    
+        
+        
+        <p>Dreams and wishes</p>
+
+        <ol>
+            <li>Dancing the macarena</li>
+            <li>Being the very best.</li>
+            <ul>
+                <li>... like no one ever was.</li>
+            </ul>
+            <li>1.000.000 subs on Youtube.</li>
+        </ol>
+        
+    
+        
+        
+       
+        <p id="unique">Stats of awesomeness</p>
+
+ <table id="stats">
+  <tr>
+    <th>Stat</th>
+    <th>Amount</th>
+  </tr>
+<tr>
+    <td>Art</td>
+    <td>Like Picasso</td>
+  </tr>
+  <tr>
+    <td>Gaming</td>
+    <td>Got Gud</td>
+  </tr>
+<tr>
+    <td>Stocks</td>
+    <td>Stonks</td>
+  </tr>
+  <tr>
+    <td>Memes</td>
+    <td>Over 9000</td>
+  </tr>
+</table> 
+        
+
+    </div>
+        </body>
+
+</html>
